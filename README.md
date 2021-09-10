@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente sou estagiaria em desenvolvimento de sistemas;
-- 🌱 Estudando React, typescript.
+- 🌱 Estudando React, ReactNative, Typescript.
 
  <div>
   <a href="https://github.com/marlenesedano">
