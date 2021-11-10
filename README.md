@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente sou estagiaria em desenvolvimento de sistemas;
+- 🔭 Atualmente sou desenvolvedora front-end junior;
 - 🌱 Estudando Vue, React, ReactNative, Typescript.
 
  <div>
