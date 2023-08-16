@@ -3,7 +3,8 @@
 
 
 - 🔭 Atualmente sou desenvolvedora front-end junior;
-- 🌱 Estudando Vue, React, ReactNative, Typescript.
+- 🌱 Experiência VueJS, Vue 3, AngularJS.
+   Projeto de TCC em React Native.
 
  <div>
   <a href="https://github.com/marlenesedano">
