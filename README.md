@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente sou desenvolvedora front-end junior;
+- 🔭 Atualmente sou desenvolvedora front-end pleno;
 - 🌱 Experiência VueJS, Vue 3, AngularJS.
    Projeto de TCC em React Native.
 
