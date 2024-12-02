@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente sou desenvolvedora front-end pleno;
-- 🌱 Experiência VueJS, Vue 3, AngularJS, Typescript.
+- 🌱 Experiência React, VueJS, Typescript.
    Projeto de TCC em React Native.
 
  <div>
